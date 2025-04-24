@@ -1,0 +1,16 @@
+{
+    "name": "soluciones_web/paola",
+    "description": "soluciones web",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "SolucionesWeb\\Paola\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paola farfan taipe"
+        }
+    ],
+    "require": {}
+}
